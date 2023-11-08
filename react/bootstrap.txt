@@ -1,3 +1,0 @@
-/* Links */
-https://react-bootstrap.netlify.app/docs/getting-started/introduction
-https://react.dev/learn
